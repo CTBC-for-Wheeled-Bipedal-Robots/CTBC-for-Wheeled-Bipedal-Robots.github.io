@@ -133,5 +133,9 @@ body {
   font-size: smaller;
 }
 
+.section.is-tight {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
 
 
